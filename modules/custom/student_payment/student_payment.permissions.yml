@@ -1,0 +1,124 @@
+add stud pay mgnt entities:
+  title: 'Create new Stud pay mgnt entities'
+
+administer stud pay mgnt entities:
+  title: 'Administer Stud pay mgnt entities'
+  description: 'Allow to access the administration form to configure Stud pay mgnt entities.'
+  restrict access: true
+
+delete stud pay mgnt entities:
+  title: 'Delete Stud pay mgnt entities'
+
+edit stud pay mgnt entities:
+  title: 'Edit Stud pay mgnt entities'
+
+view published stud pay mgnt entities:
+  title: 'View published Stud pay mgnt entities'
+
+view unpublished stud pay mgnt entities:
+  title: 'View unpublished Stud pay mgnt entities'
+
+view all stud pay mgnt revisions:
+  title: 'View all Stud pay mgnt revisions'
+
+revert all stud pay mgnt revisions:
+  title: 'Revert all Stud pay mgnt revisions'
+  description: 'Role requires permission <em>view Stud pay mgnt revisions</em> and <em>edit rights</em> for stud pay mgnt entities in question or <em>administer stud pay mgnt entities</em>.'
+
+delete all stud pay mgnt revisions:
+  title: 'Delete all revisions'
+  description: 'Role requires permission to <em>view Stud pay mgnt revisions</em> and <em>delete rights</em> for stud pay mgnt entities in question or <em>administer stud pay mgnt entities</em>.'
+
+add stud pay mgnt1 entities:
+  title: 'Create new Stud pay mgnt1 entities'
+
+administer stud pay mgnt1 entities:
+  title: 'Administer Stud pay mgnt1 entities'
+  description: 'Allow to access the administration form to configure Stud pay mgnt1 entities.'
+  restrict access: true
+
+delete stud pay mgnt1 entities:
+  title: 'Delete Stud pay mgnt1 entities'
+
+edit stud pay mgnt1 entities:
+  title: 'Edit Stud pay mgnt1 entities'
+
+view published stud pay mgnt1 entities:
+  title: 'View published Stud pay mgnt1 entities'
+
+view unpublished stud pay mgnt1 entities:
+  title: 'View unpublished Stud pay mgnt1 entities'
+
+add stud pay mgnt2 entities:
+  title: 'Create new Stud pay mgnt2 entities'
+
+administer stud pay mgnt2 entities:
+  title: 'Administer Stud pay mgnt2 entities'
+  description: 'Allow to access the administration form to configure Stud pay mgnt2 entities.'
+  restrict access: true
+
+delete stud pay mgnt2 entities:
+  title: 'Delete Stud pay mgnt2 entities'
+
+edit stud pay mgnt2 entities:
+  title: 'Edit Stud pay mgnt2 entities'
+
+view published stud pay mgnt2 entities:
+  title: 'View published Stud pay mgnt2 entities'
+
+view unpublished stud pay mgnt2 entities:
+  title: 'View unpublished Stud pay mgnt2 entities'
+
+add stud pay mgnt3 entities:
+  title: 'Create new Stud pay mgnt3 entities'
+
+administer stud pay mgnt3 entities:
+  title: 'Administer Stud pay mgnt3 entities'
+  description: 'Allow to access the administration form to configure Stud pay mgnt3 entities.'
+  restrict access: true
+
+delete stud pay mgnt3 entities:
+  title: 'Delete Stud pay mgnt3 entities'
+
+edit stud pay mgnt3 entities:
+  title: 'Edit Stud pay mgnt3 entities'
+
+view published stud pay mgnt3 entities:
+  title: 'View published Stud pay mgnt3 entities'
+
+view unpublished stud pay mgnt3 entities:
+  title: 'View unpublished Stud pay mgnt3 entities'
+
+permission_callbacks:
+  - \Drupal\student_payment\StudPayMgnt3Permissions::generatePermissions
+add stud pay mgnt4 entities:
+  title: 'Create new Stud pay mgnt4 entities'
+
+administer stud pay mgnt4 entities:
+  title: 'Administer Stud pay mgnt4 entities'
+  description: 'Allow to access the administration form to configure Stud pay mgnt4 entities.'
+  restrict access: true
+
+delete stud pay mgnt4 entities:
+  title: 'Delete Stud pay mgnt4 entities'
+
+edit stud pay mgnt4 entities:
+  title: 'Edit Stud pay mgnt4 entities'
+
+view published stud pay mgnt4 entities:
+  title: 'View published Stud pay mgnt4 entities'
+
+view unpublished stud pay mgnt4 entities:
+  title: 'View unpublished Stud pay mgnt4 entities'
+
+view all stud pay mgnt4 revisions:
+  title: 'View all Stud pay mgnt4 revisions'
+
+revert all stud pay mgnt4 revisions:
+  title: 'Revert all Stud pay mgnt4 revisions'
+  description: 'Role requires permission <em>view Stud pay mgnt4 revisions</em> and <em>edit rights</em> for stud pay mgnt4 entities in question or <em>administer stud pay mgnt4 entities</em>.'
+
+delete all stud pay mgnt4 revisions:
+  title: 'Delete all revisions'
+  description: 'Role requires permission to <em>view Stud pay mgnt4 revisions</em> and <em>delete rights</em> for stud pay mgnt4 entities in question or <em>administer stud pay mgnt4 entities</em>.'
+

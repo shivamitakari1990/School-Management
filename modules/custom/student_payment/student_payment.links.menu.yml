@@ -1,0 +1,73 @@
+
+# Stud pay mgnt menu items definition
+entity.stud_pay_mgnt.collection:
+  title: 'Stud pay mgnt list'
+  route_name: entity.stud_pay_mgnt.collection
+  description: 'List Stud pay mgnt entities'
+  parent: system.admin_structure
+  weight: 100
+
+stud_pay_mgnt.admin.structure.settings:
+  title: 'Stud pay mgnt settings'
+  description: 'Configure Stud pay mgnt entities'
+  route_name: stud_pay_mgnt.settings
+  parent: system.admin_structure
+
+# Stud pay mgnt1 menu items definition
+entity.stud_pay_mgnt1.collection:
+  title: 'Stud pay mgnt1 list'
+  route_name: entity.stud_pay_mgnt1.collection
+  description: 'List Stud pay mgnt1 entities'
+  parent: system.admin_structure
+  weight: 100
+
+stud_pay_mgnt1.admin.structure.settings:
+  title: 'Stud pay mgnt1 settings'
+  description: 'Configure Stud pay mgnt1 entities'
+  route_name: stud_pay_mgnt1.settings
+  parent: system.admin_structure
+
+# Stud pay mgnt2 menu items definition
+entity.stud_pay_mgnt2.collection:
+  title: 'Stud pay mgnt2 list'
+  route_name: entity.stud_pay_mgnt2.collection
+  description: 'List Stud pay mgnt2 entities'
+  parent: system.admin_structure
+  weight: 100
+
+stud_pay_mgnt2.admin.structure.settings:
+  title: 'Stud pay mgnt2 settings'
+  description: 'Configure Stud pay mgnt2 entities'
+  route_name: stud_pay_mgnt2.settings
+  parent: system.admin_structure
+
+# Stud pay mgnt3 menu items definition
+entity.stud_pay_mgnt3.collection:
+  title: 'Stud pay mgnt3 list'
+  route_name: entity.stud_pay_mgnt3.collection
+  description: 'List Stud pay mgnt3 entities'
+  parent: system.admin_structure
+  weight: 100
+
+
+# Stud pay mgnt3 type menu items definition
+entity.stud_pay_mgnt3_type.collection:
+  title: 'Stud pay mgnt3 type'
+  route_name: entity.stud_pay_mgnt3_type.collection
+  description: 'List Stud pay mgnt3 type (bundles)'
+  parent: system.admin_structure
+  weight: 99
+
+# Stud pay mgnt4 menu items definition
+entity.stud_pay_mgnt4.collection:
+  title: 'Stud pay mgnt4 list'
+  route_name: entity.stud_pay_mgnt4.collection
+  description: 'List Stud pay mgnt4 entities'
+  parent: system.admin_structure
+  weight: 100
+
+stud_pay_mgnt4.admin.structure.settings:
+  title: 'Stud pay mgnt4 settings'
+  description: 'Configure Stud pay mgnt4 entities'
+  route_name: stud_pay_mgnt4.settings
+  parent: system.admin_structure

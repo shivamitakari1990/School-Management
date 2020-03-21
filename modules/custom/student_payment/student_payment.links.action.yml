@@ -1,0 +1,30 @@
+entity.stud_pay_mgnt.add_form:
+  route_name: entity.stud_pay_mgnt.add_form
+  title: 'Add Stud pay mgnt'
+  appears_on:
+    - entity.stud_pay_mgnt.collection
+entity.stud_pay_mgnt1.add_form:
+  route_name: entity.stud_pay_mgnt1.add_form
+  title: 'Add Stud pay mgnt1'
+  appears_on:
+    - entity.stud_pay_mgnt1.collection
+entity.stud_pay_mgnt2.add_form:
+  route_name: entity.stud_pay_mgnt2.add_form
+  title: 'Add Stud pay mgnt2'
+  appears_on:
+    - entity.stud_pay_mgnt2.collection
+entity.stud_pay_mgnt3.add_form:
+  route_name: entity.stud_pay_mgnt3.add_page
+  title: 'Add Stud pay mgnt3'
+  appears_on:
+    - entity.stud_pay_mgnt3.collection
+entity.stud_pay_mgnt3_type.add_form:
+  route_name: entity.stud_pay_mgnt3_type.add_form
+  title: 'Add Stud pay mgnt3 type'
+  appears_on:
+    - entity.stud_pay_mgnt3_type.collection
+entity.stud_pay_mgnt4.add_form:
+  route_name: entity.stud_pay_mgnt4.add_form
+  title: 'Add Stud pay mgnt4'
+  appears_on:
+    - entity.stud_pay_mgnt4.collection

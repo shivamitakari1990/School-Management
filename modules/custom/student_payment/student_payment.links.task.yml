@@ -1,0 +1,111 @@
+# Stud pay mgnt routing definition
+stud_pay_mgnt.settings_tab:
+  route_name: stud_pay_mgnt.settings
+  title: 'Settings'
+  base_route: stud_pay_mgnt.settings
+
+entity.stud_pay_mgnt.canonical:
+  route_name: entity.stud_pay_mgnt.canonical
+  base_route: entity.stud_pay_mgnt.canonical
+  title: 'View'
+
+entity.stud_pay_mgnt.edit_form:
+  route_name: entity.stud_pay_mgnt.edit_form
+  base_route: entity.stud_pay_mgnt.canonical
+  title: 'Edit'
+
+entity.stud_pay_mgnt.version_history:
+  route_name: entity.stud_pay_mgnt.version_history
+  base_route: entity.stud_pay_mgnt.canonical
+  title: 'Revisions'
+
+entity.stud_pay_mgnt.delete_form:
+  route_name:  entity.stud_pay_mgnt.delete_form
+  base_route:  entity.stud_pay_mgnt.canonical
+  title: Delete
+  weight: 10
+# Stud pay mgnt1 routing definition
+stud_pay_mgnt1.settings_tab:
+  route_name: stud_pay_mgnt1.settings
+  title: 'Settings'
+  base_route: stud_pay_mgnt1.settings
+
+entity.stud_pay_mgnt1.canonical:
+  route_name: entity.stud_pay_mgnt1.canonical
+  base_route: entity.stud_pay_mgnt1.canonical
+  title: 'View'
+
+entity.stud_pay_mgnt1.edit_form:
+  route_name: entity.stud_pay_mgnt1.edit_form
+  base_route: entity.stud_pay_mgnt1.canonical
+  title: 'Edit'
+
+entity.stud_pay_mgnt1.delete_form:
+  route_name:  entity.stud_pay_mgnt1.delete_form
+  base_route:  entity.stud_pay_mgnt1.canonical
+  title: Delete
+  weight: 10
+# Stud pay mgnt2 routing definition
+stud_pay_mgnt2.settings_tab:
+  route_name: stud_pay_mgnt2.settings
+  title: 'Settings'
+  base_route: stud_pay_mgnt2.settings
+
+entity.stud_pay_mgnt2.canonical:
+  route_name: entity.stud_pay_mgnt2.canonical
+  base_route: entity.stud_pay_mgnt2.canonical
+  title: 'View'
+
+entity.stud_pay_mgnt2.edit_form:
+  route_name: entity.stud_pay_mgnt2.edit_form
+  base_route: entity.stud_pay_mgnt2.canonical
+  title: 'Edit'
+
+entity.stud_pay_mgnt2.delete_form:
+  route_name:  entity.stud_pay_mgnt2.delete_form
+  base_route:  entity.stud_pay_mgnt2.canonical
+  title: Delete
+  weight: 10
+# Stud pay mgnt3 routing definition
+
+entity.stud_pay_mgnt3.canonical:
+  route_name: entity.stud_pay_mgnt3.canonical
+  base_route: entity.stud_pay_mgnt3.canonical
+  title: 'View'
+
+entity.stud_pay_mgnt3.edit_form:
+  route_name: entity.stud_pay_mgnt3.edit_form
+  base_route: entity.stud_pay_mgnt3.canonical
+  title: 'Edit'
+
+entity.stud_pay_mgnt3.delete_form:
+  route_name:  entity.stud_pay_mgnt3.delete_form
+  base_route:  entity.stud_pay_mgnt3.canonical
+  title: Delete
+  weight: 10
+# Stud pay mgnt4 routing definition
+stud_pay_mgnt4.settings_tab:
+  route_name: stud_pay_mgnt4.settings
+  title: 'Settings'
+  base_route: stud_pay_mgnt4.settings
+
+entity.stud_pay_mgnt4.canonical:
+  route_name: entity.stud_pay_mgnt4.canonical
+  base_route: entity.stud_pay_mgnt4.canonical
+  title: 'View'
+
+entity.stud_pay_mgnt4.edit_form:
+  route_name: entity.stud_pay_mgnt4.edit_form
+  base_route: entity.stud_pay_mgnt4.canonical
+  title: 'Edit'
+
+entity.stud_pay_mgnt4.version_history:
+  route_name: entity.stud_pay_mgnt4.version_history
+  base_route: entity.stud_pay_mgnt4.canonical
+  title: 'Revisions'
+
+entity.stud_pay_mgnt4.delete_form:
+  route_name:  entity.stud_pay_mgnt4.delete_form
+  base_route:  entity.stud_pay_mgnt4.canonical
+  title: Delete
+  weight: 10
